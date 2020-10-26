@@ -3,3 +3,5 @@ Ramu is a Web developer
 Kalyan is a good boy
 
 swami is a good trainer
+
+Gayathri is also a web design using reactjs trainer
